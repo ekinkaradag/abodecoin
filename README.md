@@ -5,9 +5,9 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Abodecoin Developer (Ekin Karadag)
 
-Instagram accounts: @abodecoin & @karadagekin [@karadagekin](https://www.instagram.com/karadagekin) & [@abodecoin](https://www.instagram.com/abodecoin)
+Instagram accounts: [@karadagekin](https://www.instagram.com/karadagekin) & [@abodecoin](https://www.instagram.com/abodecoin)
 
-Twitter accounts: @abodecoin & @karadagekin [@karadagekin](https://twitter.com/karadagekin/) & [@abodecoin](https://twitter.com/abodecoin/)
+Twitter accounts: [@karadagekin](https://twitter.com/karadagekin/) & [@abodecoin](https://twitter.com/abodecoin/)
 
 
 What is Abodecoin (ABC)?
