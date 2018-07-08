@@ -1,8 +1,8 @@
 
 http://www.abodecoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2009-2018 Bitcoin Developers
+Copyright (c) 2011-2018 Litecoin Developers
 Copyright (c) 2018 Abodecoin Developer (Ekin Karadag)
 
 Instagram accounts: [@karadagekin](https://www.instagram.com/karadagekin) & [@abodecoin](https://www.instagram.com/abodecoin)
@@ -13,7 +13,7 @@ Twitter accounts: [@karadagekin](https://twitter.com/karadagekin/) & [@abodecoin
 What is Abodecoin (ABC)?
 ----------------
 
-Abodecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Abodecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm. Abodecoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Abodecoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Abodecoin is the name of open source software which enables the use of this currency.
  - 5 minute block targets
  - Subsidy is 50 ABC
  - Subsidy halves in 630k blocks
