@@ -1,25 +1,25 @@
-Abodecoin integration/staging tree
-================================
 
 http://www.abodecoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Abodecoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 Abodecoin Developer (Ekin Karadag)
 
-What is Abodecoin?
+Instagram accounts: @abodecoin & @karadagekin [@karadagekin](https://www.instagram.com/karadagekin) & [@abodecoin](https://www.instagram.com/abodecoin)
+
+Twitter accounts: @abodecoin & @karadagekin [@karadagekin](https://twitter.com/karadagekin/) & [@abodecoin](https://twitter.com/abodecoin/)
+
+
+What is Abodecoin (ABC)?
 ----------------
 
 Abodecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Abodecoin client sofware, see http://www.abodecoin.org.
+ - 5 minute block targets
+ - Subsidy is 50 ABC
+ - Subsidy halves in 630k blocks
+ - There can only be a maximum of 63 million ABC
+ - The wallet addresses start with "A" (testnet wallet addresses start with "a")
+ -
 
 License
 -------
@@ -30,11 +30,7 @@ information or see http://opensource.org/licenses/MIT.
 Development process
 -------------------
 
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
-
-If it is a simple/trivial/non-controversial change, then one of the Abodecoin
-development team members simply pulls it.
+If it is a simple/trivial/non-controversial change, then I simply pull it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
 submitter will be asked to start a discussion with the devs and community.
@@ -51,15 +47,10 @@ regularly to indicate new official, stable release versions of Abodecoin.
 Testing
 -------
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
 
 ### Automated Testing
 
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
+Testing the code highly encouraged. Please be advised.
 
 Unit tests for the core code are in `src/test/`. To compile and run them:
 
