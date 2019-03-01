@@ -1,4 +1,4 @@
-*This is not an actual crypto-currency for real-world use. The nodes are neither created nor defined. This just a demonstration for future possibilities*
+*This is not an actual crypto-currency for real-world use. The nodes are neither created nor defined. This is just a demonstration for future possibilities*
 
  - Copyright (c) 2009-2018 Bitcoin Developers
  - Copyright (c) 2011-2018 Litecoin Developers
