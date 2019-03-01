@@ -13,7 +13,6 @@ Abode Coin is a lite version of Bitcoin using scrypt as a proof-of-work algorith
  - Subsidy halves in 630k blocks
  - There can only be a maximum of 63 million ABC
  - The wallet addresses start with "A" (testnet wallet addresses start with "a")
- -
 
 License
 -------
