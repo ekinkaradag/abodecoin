@@ -1,14 +1,8 @@
+*This is not an actual crypto-currency for real-world use. The nodes are neither created nor defined. This just a demonstration for future possibilities*
 
-
-- Copyright (c) 2009-2018 Bitcoin Developers
+ - Copyright (c) 2009-2018 Bitcoin Developers
  - Copyright (c) 2011-2018 Litecoin Developers
- - Copyright (c) 2018 Abode Coin Developer (Ekin Karadag)
-
-Instagram accounts: [@karadagekin](https://www.instagram.com/karadagekin) & [@abodecoin](https://www.instagram.com/abodecoin)
-
-Twitter accounts: [@karadagekin](https://twitter.com/karadagekin/) & [@abodecoin](https://twitter.com/abodecoin/)
-
-http://www.abodecoin.org
+ - Copyright (c) 2019-2019 Ekin Karadag
 
 What is Abode Coin (ABC)?
 ----------------
