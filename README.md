@@ -2,7 +2,7 @@
 
  - Copyright (c) 2009-2018 Bitcoin Developers
  - Copyright (c) 2011-2018 Litecoin Developers
- - Copyright (c) 2019-2019 Ekin Karadag
+ - Copyright (c) 2019 Ekin Karadag
 
 What is Abode Coin (ABC)?
 ----------------
